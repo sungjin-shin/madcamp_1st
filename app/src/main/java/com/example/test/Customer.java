@@ -11,5 +11,4 @@ public class Customer {
         this.phone = phone;
         this.gender = gender;
     }
-
 }
